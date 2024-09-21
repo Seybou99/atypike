@@ -1,0 +1,6 @@
+#palcer dans le repo pablic
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+Disallow: /app/gerants
+Disallow: /app/dashboard
